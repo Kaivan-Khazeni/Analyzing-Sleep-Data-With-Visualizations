@@ -14,6 +14,7 @@ The most common day for lower average sleep quality was consistently Mondays for
 
 Here is our video demonstrating our visualization.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yNKp7UIXZwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Links to Process Book and Data
 
