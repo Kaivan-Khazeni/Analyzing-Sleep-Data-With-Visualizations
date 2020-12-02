@@ -6,13 +6,17 @@ To access our visualization, [please follow this link!](https://kkhazeni7.github
 
 Through creating our visualization we found some interesting facts about individual sleep quality and their correlation to sleep stage lengths each night.
 
-The most common day for higher average sleep quality was consistently Sundays for most individuals
+The most common day for higher average sleep quality was consistently Sundays for most individuals.
 
-The most common day for lower average sleep quality was consistently Monday for most individuals
+The most common day for lower average sleep quality was consistently Mondays for most individuals.
 
 ### Interactive Video
+
 Here is our video demonstrating our visualization.
 
+
 ### Links to Process Book and Data
-Process Book:
-Data:
+
+[Process Book](https://kkhazeni7.github.io/ProcessBook.pdf)
+
+[Data](https://datasets.simula.no/pmdata/)
