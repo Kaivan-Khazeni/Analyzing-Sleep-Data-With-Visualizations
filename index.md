@@ -1,6 +1,6 @@
 ## Sleep Stages and Sleep Quality
 
-To acces our visualization, [please follow this link!] (https://github.com/kkhazeni7/kkhazeni7.github.io/main/SleepQuality.html)
+To acces our visualization, [please follow this link!] (https://github.com/kkhazeni7/kkhazeni7.github.io/edit/main/SleepQuality.html)
 
 ### Markdown
 
